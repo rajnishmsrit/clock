@@ -39,3 +39,8 @@
 .read-the-docs {
   color: #888;
 }
+
+.current-time {
+  font-weight: bold;
+  font-size: xx-large;
+}
